@@ -1,3 +1,0 @@
-function isCastvote(age){
-    
-}
