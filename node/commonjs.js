@@ -3,5 +3,5 @@
 // console.log(calc_area(r));
 // console.log(calc_peri(r));
 
-import isVote from './esm.js'
+import isVote from './esm.js'//1.commom js
 console.log(isVote(19));

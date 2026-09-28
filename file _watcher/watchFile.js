@@ -7,3 +7,9 @@ if(prev !== curr){
     console.log("File changed");
     }
 });
+setTimeout(()=>{
+    watcher.unwatchFile()
+    console.log("File watching closed ")
+
+    
+},5000)

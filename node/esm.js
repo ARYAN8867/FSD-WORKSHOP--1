@@ -1,4 +1,4 @@
-export default function isVote(age){
+export default function isVote(age){// import from 
     if (age>=18){
         console.log("Eligible");
     }
